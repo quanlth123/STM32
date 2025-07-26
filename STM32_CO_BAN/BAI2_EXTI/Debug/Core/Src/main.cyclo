@@ -1,0 +1,9 @@
+../Core/Src/main.c:62:6:HAL_GPIO_EXTI_Callback	6
+../Core/Src/main.c:76:6:HAL_SYSYICK_Callback	3
+../Core/Src/main.c:86:6:Effect_1	3
+../Core/Src/main.c:100:6:Effect_2	3
+../Core/Src/main.c:110:6:Warning	3
+../Core/Src/main.c:127:5:main	2
+../Core/Src/main.c:177:6:SystemClock_Config	3
+../Core/Src/main.c:219:13:MX_GPIO_Init	1
+../Core/Src/main.c:266:6:Error_Handler	1
