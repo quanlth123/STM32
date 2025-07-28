@@ -34,3 +34,39 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-07-26 20:27:47.807
 !MESSAGE Indexed 'BAI2_EXTI' (19 sources, 81 headers) in 2.76 sec: 4,423 declarations; 17,851 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.009%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-07-26 23:15:49.665
+!MESSAGE Indexed 'BAI3_TIMER' (19 sources, 81 headers) in 1.56 sec: 4,423 declarations; 17,851 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.009%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-07-26 23:31:42.848
+!MESSAGE Indexed 'BAI3.1_TIMER' (19 sources, 81 headers) in 1.37 sec: 4,423 declarations; 17,851 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.009%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-07-26 23:32:37.100
+!MESSAGE Indexed 'BAI3-1_TIMER' (19 sources, 81 headers) in 1.65 sec: 4,423 declarations; 17,851 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.009%)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2025-07-27 00:03:20.787
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 13 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2025-07-27 00:03:20.827
+!MESSAGE Existing sessions are:
+!SESSION 2025-07-28 21:54:32.601 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-07-28 21:54:50.412
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-07-28 21:54:50.414
+!MESSAGE Log4j2 initialized with config file E:\LAP_TRINH_STM32\STM32_CO_BAN\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-07-28 21:54:59.173
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-07-28 21:57:25.486
+!MESSAGE Indexed 'BAI3-2_TIMER' (19 sources, 81 headers) in 2.73 sec: 4,423 declarations; 17,851 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.009%)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug.launch 2 0 2025-07-28 22:20:53.155
+!MESSAGE Won't launch debug session since we failed to locate the binary.

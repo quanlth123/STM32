@@ -1,0 +1,10 @@
+00:27:42 **** Incremental Build of configuration Debug for project BAI3-1_TIMER ****
+make -j12 all 
+arm-none-eabi-size  BAI3-1_TIMER.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8480	     12	   1644	  10136	   2798	BAI3-1_TIMER.elf
+Finished building: default.size.stdout
+ 
+
+00:27:43 Build Finished. 0 errors, 0 warnings. (took 427ms)
+

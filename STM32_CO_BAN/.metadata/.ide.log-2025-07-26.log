@@ -1,0 +1,35 @@
+2025-07-27 00:12:00,033 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-07-27 00:12:04,220 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 432077240 Bytes (1017118720)
+2025-07-27 00:12:06,044 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 537983416 Bytes (1017118720)
+2025-07-27 00:12:06,308 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-07-27 00:12:06,309 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-07-27 00:12:06,309 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-07-27 00:12:06,309 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-07-27 00:12:06,309 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-07-27 00:12:06,311 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-07-27 00:12:06,581 [INFO] CodeEngine:265 - oldGeneratedFile, E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\MXTmpFiles\license.tmp_save
+2025-07-27 00:12:06,804 [INFO] CodeEngine:289 - Generated code: E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\MXTmpFiles\license.tmp
+2025-07-27 00:12:06,835 [INFO] CodeEngine:265 - oldGeneratedFile, E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\MXTmpFiles\gpio.tmp_save
+2025-07-27 00:12:07,003 [INFO] CodeEngine:289 - Generated code: E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\MXTmpFiles\gpio.tmp
+2025-07-27 00:12:07,073 [INFO] CodeEngine:265 - oldGeneratedFile, E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\Core\Src\stm32f4xx_it.c_save
+2025-07-27 00:12:07,368 [INFO] CodeEngine:289 - Generated code: E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\Core\Src\stm32f4xx_it.c
+2025-07-27 00:12:07,374 [INFO] CodeEngine:265 - oldGeneratedFile, E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\Core\Inc\stm32f4xx_it.h_save
+2025-07-27 00:12:07,462 [INFO] CodeEngine:289 - Generated code: E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\Core\Inc\stm32f4xx_it.h
+2025-07-27 00:12:07,478 [INFO] CodeEngine:265 - oldGeneratedFile, E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\Core\Src\stm32f4xx_hal_msp.c_save
+2025-07-27 00:12:07,625 [INFO] CodeEngine:289 - Generated code: E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\Core\Src\stm32f4xx_hal_msp.c
+2025-07-27 00:12:07,630 [INFO] CodeEngine:265 - oldGeneratedFile, E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\MXTmpFiles\system.tmp_save
+2025-07-27 00:12:07,712 [INFO] CodeEngine:289 - Generated code: E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\MXTmpFiles\system.tmp
+2025-07-27 00:12:07,728 [INFO] CodeEngine:321 - oldGeneratedFile, E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-07-27 00:12:07,826 [INFO] CodeEngine:345 - Generated code: E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\Core\Inc\stm32f4xx_hal_conf.h
+2025-07-27 00:12:07,848 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-07-27 00:12:07,849 [WARN] CodeGenerator:4259 - IP not found : null
+2025-07-27 00:12:07,859 [INFO] CodeEngine:265 - oldGeneratedFile, E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\Core\Inc\main.h_save
+2025-07-27 00:12:07,970 [INFO] CodeEngine:289 - Generated code: E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\Core\Inc\main.h
+2025-07-27 00:12:07,976 [INFO] CodeEngine:265 - oldGeneratedFile, E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\Core\Src\main.c_save
+2025-07-27 00:12:08,115 [INFO] CodeEngine:289 - Generated code: E:\LAP_TRINH_STM32\STM32_CO_BAN\BAI3_TIMER\Core\Src\main.c
+2025-07-27 00:12:08,584 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 198mS.
+2025-07-27 00:12:08,588 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-07-27 00:12:08,703 [INFO] ConfigFileManager:1595 - The Die is : DIE413
+2025-07-27 00:12:09,767 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1179mS.
+2025-07-27 00:12:09,768 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-07-27 00:12:09,771 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
